@@ -22,5 +22,3 @@ Aspiring web developer, improving step by step.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-charan-kattempudi-a90874370/)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=0sai-charan0&style=flat-square)
