@@ -8,6 +8,6 @@ Building projects step by step
 ## 🛠 Skills
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![HTML](https://img.shields.io/badge/HTML-Basics-orange)
-![CSS](https://img.shields.io/badge/CSS-Basics-blue)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 ![Git](https://img.shields.io/badge/Git-Basics-red)
