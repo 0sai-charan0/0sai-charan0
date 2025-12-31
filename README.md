@@ -16,3 +16,9 @@ Building projects step by step
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0sai-charan0&style=flat-square)
+
+---
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-charan-kattempudi-a90874370/)
