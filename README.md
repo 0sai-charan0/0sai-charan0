@@ -37,8 +37,6 @@
 ###
 
 <h1 align="left"> 📧 Professional contact via email  
-  
-🔐 Secure communication available upon request
 </h1>
 
 ###
